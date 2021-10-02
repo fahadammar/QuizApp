@@ -12,7 +12,7 @@
         <!-- All such properties added in below .MainActivity can be studies via Docs  -->
         <activity android:name=".MainActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/NoActionBar"
+            android:theme="@style/NoActionBarTheme"
             android:windowSoftInputMode="adjustResize"
             >
             <intent-filter>
