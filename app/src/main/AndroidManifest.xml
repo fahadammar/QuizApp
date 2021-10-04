@@ -9,12 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApp">
-        <!-- All such properties added in below .MainActivity can be studies via Docs  -->
-        <activity android:name=".MainActivity"
+        <!-- Quiz Questions Activity  -->
+        <activity android:name=".Activities.QuizQuestionsActivity"
+            android:screenOrientation="portrait"
+            ></activity>
+        <!-- All such properties added in below .MainActivity can be studies via Docs -->
+        <activity
+            android:name=".MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"
-            android:windowSoftInputMode="adjustResize"
-            >
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
