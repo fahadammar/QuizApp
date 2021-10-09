@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/drawable-v24/correct_answer.xml" value="0.1953125" />
         <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/drawable-v24/custom_choice_bg.xml" value="0.1953125" />
         <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/drawable-v24/custom_selectedchoice_bg.xml" value="0.1953125" />
+        <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/drawable-v24/wrong_answer.xml" value="0.20633299284984677" />
         <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/drawable/custom_choice_bg.xml" value="0.1953125" />
         <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.175" />
         <entry key="..\:/Android_Native/Android_NativePractise/QuizApp/app/src/main/res/layout/activity_quiz_questions.xml" value="0.18" />
